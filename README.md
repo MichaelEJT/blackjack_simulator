@@ -28,7 +28,7 @@ You will be prompted to index page (also our login page). If you already have re
 
 ## How to run
 
-[See User Instrcutions](/docs/user_instructions.pdf)
+[See User Instrcutions](https://github.com/MichaelEJT/blackjack_simulator/blob/main/user_instructions.pdf)
 
 ## Video Clips
 
