@@ -4,13 +4,13 @@ Welcome to this simplified version of BlackJack! It's a universally known card g
 
 ## Our team member(Github username)
 
+MichaelEJT
+
 YaochenS 
 
 Burushuijiaoba
 
 RichardChiqui 
-
-MichaelEJT
 
 ricop14
 
