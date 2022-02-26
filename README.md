@@ -44,7 +44,7 @@ It has five attributes except for the auto-increasing primary key. They are user
 * express
 
 ## API Endpoints
-[See here](/docs/endpoints.md)
+[See here](https://github.com/MichaelEJT/blackjack_simulator/blob/main/endpoints.md)
 We have used a lot of endpoints to do logic work such as storing or changing user informations. We have also used endpoints to realize functions such as sendFile or redirect.
 * Login
 * Signup
